@@ -31,8 +31,17 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "深入理解计算机系统/第二章/数据转换.c",
+			"settings":
+			{
+				"buffer_size": 544,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
-	"build_system": "",
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -72,7 +81,7 @@
 			]
 		]
 	],
-	"build_varint": "",
+	"build_varint": "Run",
 	"command_palette":
 	{
 		"height": 87.0,
@@ -111,6 +120,9 @@
 	],
 	"file_history":
 	[
+		"/Users/bullub/reading-notes/深入理解计算机系统/第二章/show_bytes.c",
+		"/Users/bullub/Workspace/github/gulp-vue-pack/src/index.js",
+		"/Users/bullub/reading-notes/深入理解计算机系统/第二章/show_bytes",
 		"/Users/bullub/读书笔记/深入理解计算机系统/第二章/or.c",
 		"/Users/bullub/读书笔记/深入理解计算机系统/第二章/show_bytes.c",
 		"/Users/bullub/读书笔记/深入理解计算机系统/第二章/计算机中信息的表示.MD",
@@ -121,7 +133,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -135,6 +147,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"File",
+			"3930",
 			";\n",
 			"));\n",
 			");\n",
@@ -148,7 +162,7 @@
 			"module.exports ="
 		],
 		"highlight": false,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -169,8 +183,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "深入理解计算机系统/第二章/数据转换.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

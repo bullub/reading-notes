@@ -58,5 +58,13 @@ int main(int argc, char const *argv[])
 	// printf("%lu\n", sizeof(str));
 	printf("%lu\n", strlen(str));
 	_show_bytes((byte_pointer) str, strlen(str));
+
+
+	short x = 12345;
+	short mx = -x;
+
+	_show_bytes((byte_pointer) &x, sizeof(short));
+	_show_bytes((byte_pointer) &mx, sizeof(short));
+
 	return 0;
 }
