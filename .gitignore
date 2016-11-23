@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/modules.xml
+.idea/reading-notes.iml
+.idea/workspace.xml
+CMakeLists.txt
+cmake-build-debug/
+深入理解计算机系统/第三章/
+深入理解计算机系统/第二章/整数
+深入理解计算机系统/第二章/整数.c
+深入理解计算机系统/第二章/溢出判断.c
+深入理解计算机系统/第二章/程序调用基础知识.md
+深入理解计算机系统/第二章/运算.md

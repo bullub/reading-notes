@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"TM",
+				"TMax"
+			],
+			[
+				"T",
+				"TMin"
+			],
+			[
+				"co",
+				"co_sub_ok"
+			],
+			[
+				"inc",
+				"include\t(数据转换.c)"
+			],
+			[
+				"is",
+				"isUnderflow"
+			],
+			[
 				"re",
 				"reverse_array"
 			],
@@ -32,10 +52,10 @@
 	"buffers":
 	[
 		{
-			"file": "深入理解计算机系统/第二章/数据转换.c",
+			"file": "深入理解计算机系统/第二章/整数.c",
 			"settings":
 			{
-				"buffer_size": 544,
+				"buffer_size": 114,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -120,6 +140,9 @@
 	],
 	"file_history":
 	[
+		"/Users/bullub/reading-notes/深入理解计算机系统/第二章/数据转换.c",
+		"/Users/bullub/reading-notes/深入理解计算机系统/第二章/溢出判断.c",
+		"/Users/bullub/Workspace/口袋银行/codes/PAEBankV3_Plugin_Login/package.json",
 		"/Users/bullub/reading-notes/深入理解计算机系统/第二章/show_bytes.c",
 		"/Users/bullub/Workspace/github/gulp-vue-pack/src/index.js",
 		"/Users/bullub/reading-notes/深入理解计算机系统/第二章/show_bytes",
@@ -188,19 +211,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "深入理解计算机系统/第二章/数据转换.c",
+					"file": "深入理解计算机系统/第二章/整数.c",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 544,
+						"buffer_size": 114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								493,
-								493
+								78,
+								78
 							]
 						],
 						"settings":
